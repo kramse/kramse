@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey everyone, I'm kramse aka Henrik Kramselund Jereminsen
 
-<!--
 **kramse/kramse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in my own company Zencurity and as a teacher at KEA / KEA Kompetence
+- 👯 I’m looking to collaborate on network based open source like Zeek and Suricata, because I use them a lot
+- 🤔 I’m looking for help with Git and Github all the time, seems I cannot remember it at all 
+- 💬 Ask me about information security and networking, especially IPv6
+- 📫 How to reach me: email is probably best hkj@kramse.org
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I windsurf as much as possible
+
+### Find me in other places:
+
+<p align="left">
+<a href="http://twitter.com/Kramse" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="" height="30" /></a>
+<a href="http://linkedin.com/in/kramse" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="http://youtube.com/c/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
+<a href="http://zencurity.com" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
+
+</p>
