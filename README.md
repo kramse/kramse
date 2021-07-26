@@ -1,4 +1,4 @@
-### Hey everyone, I'm kramse aka Henrik Kramselund Jereminsen
+### Hey everyone, I'm kramse 
 
 **kramse/kramse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
