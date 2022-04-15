@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on network based open source like Zeek and Suricata, because I use them a lot
 - 🤔 I’m looking for help with Git and Github all the time, seems I cannot remember it at all 
 - 💬 Ask me about information security and networking, especially IPv6
-- 📫 How to reach me: email is probably best hkj@kramse.org
+- 📫 How to reach me: email is probably best hlk@kramse.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I windsurf as much as possible
 
