@@ -14,7 +14,6 @@
 ### Find me in other places:
 
 <p align="left">
-<a href="http://linkedin.com/in/kramse" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="LinkedIn-logo" height="30" /></a>
 <a href="http://youtube.com/user/kramshoej" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="youtube icon" height="30" /></a>
 <a href="http://zencurity.com" target="blank"><img align="center" src="https://www.zencurity.com/assets/zencurity-web-logo.png" alt="Zencurity logo" height="30" /></a>
 
