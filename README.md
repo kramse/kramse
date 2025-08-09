@@ -13,8 +13,6 @@
 
 ### Find me in other places:
 
-<p align="left">
-<a href="http://youtube.com/user/kramshoej" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="youtube icon" height="30" /></a>
-<a href="http://zencurity.com" target="blank"><img align="center" src="https://www.zencurity.com/assets/zencurity-web-logo.png" alt="Zencurity logo" height="30" /></a>
-
-</p>
+* [https://codeberg.org/kramse](https://codeberg.org/kramse) - where I am moving all my repositories, if you can't find something here, go there
+* [https://zencurity.com](https://zencurity.com) My company
+* [https://kramse.org](https://kramse.org) My private page, one of them
